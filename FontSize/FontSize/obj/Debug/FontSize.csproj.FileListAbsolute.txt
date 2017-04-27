@@ -1,0 +1,8 @@
+C:\Users\Андрей\lab1_new\FontSize\FontSize\bin\Debug\FontSize.exe.config
+C:\Users\Андрей\lab1_new\FontSize\FontSize\bin\Debug\FontSize.exe
+C:\Users\Андрей\lab1_new\FontSize\FontSize\bin\Debug\FontSize.pdb
+C:\Users\Андрей\lab1_new\FontSize\FontSize\obj\Debug\FontSize.Form1.resources
+C:\Users\Андрей\lab1_new\FontSize\FontSize\obj\Debug\FontSize.Properties.Resources.resources
+C:\Users\Андрей\lab1_new\FontSize\FontSize\obj\Debug\FontSize.csproj.GenerateResource.Cache
+C:\Users\Андрей\lab1_new\FontSize\FontSize\obj\Debug\FontSize.exe
+C:\Users\Андрей\lab1_new\FontSize\FontSize\obj\Debug\FontSize.pdb

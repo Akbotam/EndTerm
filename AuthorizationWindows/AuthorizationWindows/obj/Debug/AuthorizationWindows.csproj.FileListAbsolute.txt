@@ -1,0 +1,9 @@
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\bin\Debug\AuthorizationWindows.exe.config
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\bin\Debug\AuthorizationWindows.exe
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\bin\Debug\AuthorizationWindows.pdb
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.Form1.resources
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.Properties.Resources.resources
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.csproj.GenerateResource.Cache
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.exe
+C:\Users\Андрей\lab1_new\AuthorizationWindows\AuthorizationWindows\obj\Debug\AuthorizationWindows.pdb
